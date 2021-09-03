@@ -12,7 +12,7 @@ composer.lock
 
 user_guide_src/build/*
 
-setup/*
+setup/*	
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
